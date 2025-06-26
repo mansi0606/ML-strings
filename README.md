@@ -48,6 +48,4 @@ Libraries from the JAX ecosystem: jax, jaxlib, flax, optax
 Installation
 Clone the repository and install dependencies:
 
-$ git clone https://github.com/AndreasSchachner/ml-string-landscape.git
-$ cd ml-string-landscape
-$ pip install -r requirements.txt
+
