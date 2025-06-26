@@ -1,11 +1,11 @@
 # ML-strings
 this is my btech project
-Overview
+# Overview
 This repository explores the application of Machine Learning (ML) techniques to problems in the string landscape. The string landscape refers to the vast array of possible Effective Fields Theories arising from compactifications of string theory. The string landscape, while rich in theoretical possibilities, presents a formidable challenge: its scale and complexity make traditional methods of exploration inefficient, if not infeasible. With its combinatorial complexity, it poses challenges ideal for ML, particularly in optimisation, classification, and pattern recognition.
 
 This GitHub repository accompanies lectures held at the Avogadro Meeting 2024 in Naples, Italy, on December 18, 2024, by Stefano Lanza and Andreas Schachner. These lectures aim to bridge the gap between theoretical physics and modern ML, providing tools and tutorials for PhD students and researchers eager to apply ML methods to this frontier.
 
-Lecture Summary
+# Lecture Summary
 These lectures aim to provide a comprehensive overview of the emerging interplay between machine learning and string theory, focusing on applications to the string landscape. Over the past decade, ML has become an indispensable tool in a wide range of scientific disciplines, leveraging large datasets and high-dimensional spaces to identify hidden structures, optimise functions, and make predictions. These capabilities are particularly well-suited to the challenges posed by string theory, where datasets are often large and intricate, and the underlying physics can be highly non-linear and multi-faceted.
 
 The topics covered in this lecture are as follows:
